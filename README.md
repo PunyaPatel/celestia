@@ -1,6 +1,10 @@
 # Celestia | Luxury Handcrafted Jewellery E-commerce
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-celestiajwels.vercel.app-gold?style=for-the-badge&logo=vercel)](https://celestiajwels.vercel.app/)
+
 Celestia is a premium, high-end e-commerce storefront for handcrafted luxury jewellery. Inspired by the aesthetics of premium brands like Palmonas, it features a modern **"Liquid Glass"** design system, sophisticated micro-animations, a multi-stage checkout process, and a dedicated, password-gated admin portal to manage inventory and products in real-time.
+
+**🔗 Live Website:** [https://celestiajwels.vercel.app/](https://celestiajwels.vercel.app/)
 
 ---
 
@@ -18,6 +22,19 @@ Celestia is a premium, high-end e-commerce storefront for handcrafted luxury jew
 * **Dashboard Overview**: Access real-time store metrics including overall catalog items count and the aggregate market value of active inventory.
 * **Product CRUD Panel**: Complete product management system allowing store managers to add new items (with titles, prices, descriptions, categories, images, and care details), edit active product details, flag featured products, and delete products from the database.
 * **Inventory Control**: Live tracking of available stock quantities per item.
+
+---
+
+## 📸 Visual Walkthrough
+
+### Customer Storefront & Checkout Flow
+The storefront features high-fidelity, liquid-glass visual components and champagne-gold highlighting.
+![Customer Storefront Flow](./public/screenshots/celestia_customer_flow.webp)
+
+### Admin Management Panel
+Manage your inventory in real-time. Simply use the admin password to login.
+![Admin Products List](./public/screenshots/admin_products_table.png)
+![Admin Edit Action](./public/screenshots/celestia_admin_flow.webp)
 
 ---
 
@@ -41,8 +58,9 @@ Celestia is designed to wow visitors at first glance:
 ## 📂 Project Structure
 ```text
 celestia/
-├── public/                 # Static assets (Seeded jewellery images)
-│   └── images/
+├── public/                 # Static assets (Seeded jewellery images & screenshots)
+│   ├── images/
+│   └── screenshots/
 ├── src/
 │   ├── app/                # App Router Pages
 │   │   ├── admin/          # Admin Dashboard layout & logic
