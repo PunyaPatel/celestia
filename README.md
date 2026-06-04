@@ -53,11 +53,11 @@ The project implements the premium **"Liquid Glass"** UI pattern, featuring:
 
 ### Storefront Experience
 The storefront features high-fidelity, liquid-glass visual components and champagne-gold highlighting.
-![Storefront Customer Flow](./public/screenshots/celestia_customer_flow.webp)
+![Storefront Home Page](./public/screenshots/storefront.png)
 
 ### Admin Operations
 Manage your inventory in real-time. Simply use the admin password to login.
-![Admin Products List](./public/screenshots/admin_products_table.png)
+![Admin Dashboard Page](./public/screenshots/admin_dashboard.png)
 
 ---
 
