@@ -34,7 +34,6 @@ The storefront features high-fidelity, liquid-glass visual components and champa
 ### Admin Management Panel
 Manage your inventory in real-time. Simply use the admin password to login.
 ![Admin Products List](./public/screenshots/admin_products_table.png)
-![Admin Edit Action](./public/screenshots/celestia_admin_flow.webp)
 
 ---
 
